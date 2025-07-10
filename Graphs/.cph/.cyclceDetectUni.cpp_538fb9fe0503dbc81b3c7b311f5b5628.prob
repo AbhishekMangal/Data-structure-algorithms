@@ -1,0 +1,1 @@
+{"name":"Local: cyclceDetectUni","url":"e:\\apna college DSA\\Graphs\\cyclceDetectUni.cpp","tests":[{"id":1685087219125,"input":"15 9\n4 14\n14 3\n3 13\n13 4\n4 3\n15 5\n5 11\n11 9\n9 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\apna college DSA\\Graphs\\cyclceDetectUni.cpp","group":"local","local":true}

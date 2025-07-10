@@ -1,0 +1,1 @@
+{"name":"Local: BipartiteGraph","url":"e:\\apna college DSA\\Graphs\\BipartiteGraph.cpp","tests":[{"id":1685170918257,"input":"4 4\n0 1\n1 2\n2 3\n3 1","output":""},{"id":1691658767570,"input":"3 2\n0 1\n1 2\n2 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\apna college DSA\\Graphs\\BipartiteGraph.cpp","group":"local","local":true}

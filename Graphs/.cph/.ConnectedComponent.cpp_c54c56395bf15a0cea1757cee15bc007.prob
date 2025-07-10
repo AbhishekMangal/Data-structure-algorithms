@@ -1,0 +1,1 @@
+{"name":"Local: ConnectedComponent","url":"e:\\apna college DSA\\Graphs\\ConnectedComponent.cpp","tests":[{"id":1685167956299,"input":"5 3\n0 1\n2 3\n0 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\apna college DSA\\Graphs\\ConnectedComponent.cpp","group":"local","local":true}
